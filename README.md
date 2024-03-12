@@ -32,7 +32,7 @@ A simple React application that fetches and displays the latest news articles ba
     npm start
     ```
 
-    The app will be available at `http://localhost:3000/`.
+    The app will be available at `http://localhost:5173/`.
 
 ## Usage
 
