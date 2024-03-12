@@ -49,6 +49,7 @@ The main component rendering the application. Manages the selected news category
 ### NewsBoard.jsx
 
 Renders the news board with a list of all available news items. Fetches news articles based on the selected category.
+- **Error Handling:** Implements error handling for cases where the API request fails. Displays a user-friendly message if there are issues fetching the headlines.
 
 ### Navbar.jsx
 
