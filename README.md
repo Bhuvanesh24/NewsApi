@@ -1,5 +1,5 @@
 
-# React News ApI
+# React News Api
 
 A simple React application that fetches and displays the latest news articles based on different categories using the [News API](https://newsapi.org/).
 
